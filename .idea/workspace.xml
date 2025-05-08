@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Data/3Dmap.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/Extracted.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/SamplePoints.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/coord.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/nigeriahealthfacilities.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Pandas-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Pandas-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Bar Label-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Bar_Colour-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Filling the  Area Bw Line-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Group Bar-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/MatPlotLib-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/.ipynb_checkpoints/Stackplot and Streamgraph-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Bar Label.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Bar_Colour.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Filling the  Area Bw Line.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Group Bar.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/MatPlotLib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/MatPlotLib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matplotlib/Stackplot and Streamgraph.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,16 +41,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.MatPlotLib.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/chukw/PycharmProjects/Pandas/Data&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets.disable.when&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.MatPlotLib.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/Pandas/Data",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.root"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\chukw\PycharmProjects\Pandas\Data" />
@@ -92,6 +70,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\chukw\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4b030b9-b631-474f-80aa-1960ce1905a5" name="Changes" comment="" />
